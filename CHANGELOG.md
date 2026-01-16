@@ -2,4 +2,5 @@
 - Applied low-context layout design to keep the pages focused on projects only.
 - Avoided adding unnecessary elements to maintain clarity and simplicity.
 - Completed project list and project detail page designs
-
+- started Next.js project
+- Created `Header` component with logo, navigation links, and language selector.
